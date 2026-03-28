@@ -1,8 +1,6 @@
----
-### 🌙 Night Owl Missiyası
+🌙 Night Owl Missiyası
 Bul kod tún soat 00:00 dan keyin jazıldı. 
-Maqset: GitHub "Night Owl" nishanın qolǵa kiritiw! 🦉
+Maqset: GitHub "Night Owl" nishanın qolǵa kiriti
+"Dastúrshiler tunde oyandı, kodlar bolsa tunde tuwıldı."
 
-> "Dastúrshiler tunda oyandı, kodlar bolsa tunda tuwıldı."
----
 
